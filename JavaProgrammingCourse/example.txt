@@ -1,0 +1,10 @@
+This file is created to count the number of times a character
+appears in a file.
+
+My name is Vinay Singh Chouhan.
+I am a computer science student.
+I am placed in Wipro Ltd.
+
+To do that task i will create object of scanner class to get what character to count
+and from which file.
+
